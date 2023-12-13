@@ -29,7 +29,7 @@ The users are split into three groups: two control groups get the old fonts and 
   
 # Description of the data
 
-The data is contained in logs_exp_us.csv
+The data is stored in file logs_exp_us.csv
 
 Columns:
 
